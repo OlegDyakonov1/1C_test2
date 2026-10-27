@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.Документ</content>
   <content>Catalog.Товары</content>
+  <content>CommonCommand.НайтиТовар</content>
 </mdclass:Subsystem>

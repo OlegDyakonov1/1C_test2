@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Подсистема</subsystems>
+  <commonCommands>CommonCommand.НайтиТовар</commonCommands>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.Документ</documents>
 </mdclass:Configuration>
